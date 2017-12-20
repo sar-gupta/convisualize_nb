@@ -1,12 +1,12 @@
 # convisualize
-Visualisations for Convolutional Neural Networks in Pytorch
+Visualizations for Convolutional Neural Networks in Pytorch
 
 ## Requirements:
 * Pytorch
 * Torchvision
 * Numpy
 * Matplotlib
-* PIL
+* Pillow
 
 ## TODO
 - [X] Layer Outputs at all layers
