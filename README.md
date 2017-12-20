@@ -1,5 +1,5 @@
 # convisualize
-Visualizations for Convolutional Neural Networks in Pytorch
+Visualizations for Convolutional Neural Networks (CNNs) in Pytorch
 
 ## Requirements:
 * Pytorch
