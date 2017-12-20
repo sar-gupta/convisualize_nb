@@ -29,4 +29,3 @@ Visualisations for Convolutional Neural Networks in Pytorch
 * [cs231n Lecture 12](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf "Visualizing and Understanding")
 * [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/abs/1312.6034) Karen Simonyan, Andrea Vedaldi, Andrew Zisserman
 * [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) Matthew D Zeiler, Rob Fergus
-* 
