@@ -8,6 +8,8 @@ Visualizations for Convolutional Neural Networks in Pytorch
 * Matplotlib
 * Pillow
 
+Note: In case you don't have a GPU, remove all instances of "cuda" and "cpu" from the notebook before running.
+
 ## TODO
 - [X] Layer Outputs at all layers
 - [X] Filter outputs at a given layer
