@@ -1,5 +1,6 @@
 # convisualize
 Visualizations for Convolutional Neural Networks (CNNs) in Pytorch
+
 The corresponding article can be found [here](https://medium.com/@thesemicolonguy/dl05-convolutional-neural-networks-1d3bb7fff586)!
 
 ## Requirements:
