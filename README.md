@@ -25,6 +25,7 @@ Note: In case you don't have a GPU, remove all instances of "cuda" and "cpu" fro
 - [ ] Regularization techniques for class models (L2, Clip, Blur, etc.)
 - [ ] Guided Backprop
 - [ ] Filter visualization (Gradient Ascent)
+- [ ] Neural Texture Synthesis
 - [ ] Deep Dream
 - [ ] Neural Style Transfer
 
